@@ -1,11 +1,12 @@
-# CPE-031 - CPE21S2 - Visualizations and Data Analysis - Libo-on
+
 <h1 align="center">
-CPE-031 - CPE21S2 - Visualizations and Data Analysis - Libo-on
+# CPE-031 - CPE21S2 - Visualizations and Data Analysis - Libo-on
 </h1>
 
 ###
 
-<p align="center">My name is Andrei Dion C. Lopez and I'm a student at the Technological Institute of the Philippines.</p>
+<p align="center"> My name is GIAN CARLO G. LIBO-ON 
+  I'm a tudent at the Technological Institute of the Philippines.</p>
 
 ###
 
