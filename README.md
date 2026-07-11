@@ -25,7 +25,6 @@
 
 - **Name:** Gian Carlo G. Libo-on
 - **Program:** Computer Engineering (CpE)
-- 
 ---
 
 ## 📊 Repository Overview
