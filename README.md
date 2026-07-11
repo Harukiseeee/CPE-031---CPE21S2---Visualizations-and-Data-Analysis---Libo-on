@@ -6,13 +6,7 @@
 ###
 
 <p align="center"> My name is GIAN CARLO G. LIBO-ON 
-  I'm a tudent at the Technological Institute of the Philippines.</p>
-
-###
-
-<div align="center">
-  <img width="450" src="https://github.com/user-attachments/assets/e19273c1-e582-49f1-bfb1-cbfffdf47301"  />
-</div>
+  I'm a student at the Technological Institute of the Philippines.</p>
 
 ###
 
